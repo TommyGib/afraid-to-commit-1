@@ -25,6 +25,9 @@ PyCon Ireland in Dublin, 14th October 2013
 * Larry O'Neill (larryone)
 * Samuel <satiricallaught@gmail.com>
 * Frank Healy
+* James Hickey  OPW
+* Tommy Gibbons tommy.tomgib@gmail.com TommyGib
+* some new data by TommyGib
 
 PyCon UK in Coventry, 22nd September 2013
 -----------------------------------------
